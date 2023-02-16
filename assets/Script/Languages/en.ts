@@ -1579,6 +1579,5 @@ export const EN = {
     PlayerTradeCancelled: "Cancelled",
     FormatTimeAgo: "%{time} ago",
     BuildAdjacent: "Build and Expand",
-    BuildAdjacentDesc: "Build the selected building and construct adjacent buildings of the same type",
-    BatchSellLevelX: "Level %{level} Only"
+    BuildAdjacentDesc: "Build the selected building and construct adjacent buildings of the same type"
 };
